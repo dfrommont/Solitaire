@@ -1,0 +1,12 @@
+:root {
+    --Blue: #A5D8FF;
+    --Yellow: #E28413;
+    --Orange: #F56416;
+    --Burgundy: #890620;
+    --Brown: #2C0703;
+    --Green: #474A2C;
+}
+
+#root {
+    background-color: var(--Green);
+}
